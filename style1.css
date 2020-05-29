@@ -1,0 +1,6 @@
+body{height: 150px; margin: 0px;  background-color: black }
+h1{text-align:center; color:darkmagenta; margin: 0px; padding:20px}
+.statement{text-align: center; height: 50px; 
+background-color: black; color: darkmagenta;}
+button{background-color:darkmagenta; color: black; border-radius: 10px}
+.insult{color: darkmagenta; background-color: black; padding: 90px; text-align: center}
